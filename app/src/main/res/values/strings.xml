@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TappticNumbers</string>
+    <string name="title_tapptic_numbers">Tapptic Numbers</string>
+    <string name="no_internet">Turn On Internet And Click</string>
+    <string name="item_details_text">Text</string>
+    <string name="item_details_name">Name</string>
+</resources>
